@@ -51,12 +51,8 @@ public class Prob05 {
 				maxScore = answer;
 				cnt = cnt + 1;
 			}
-			
 		}
-		
-		
 		
 		scanner.close();
 	}
-
 }
